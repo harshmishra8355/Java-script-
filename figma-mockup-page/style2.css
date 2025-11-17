@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid red;
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.item{
+    height: 42px;
+    width: 42px;
+    background-color: violet;
+    border: 2px solid black;
+    margin: 4px;
+}
